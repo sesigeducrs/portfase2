@@ -365,17 +365,18 @@ h3 {
 }
 
 h4 {
-	font-size: 1em;
+	font-size: 0.8em;
 	text-align: center;
 }
 
 h5 {
-	font-size: 0.5em;
+	font-size: 0.7em;
+	text-align: right;
 	
 }
 
 h6 {
-	font-size: 0.8em;
+	font-size: 0.7em;
 	text-align: center;
 }
 
